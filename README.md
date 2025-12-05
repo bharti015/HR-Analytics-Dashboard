@@ -1,10 +1,3 @@
-Ah, got you. You want **clear visual hierarchy** — headings should *look* like headings, normal text should *look* like text — so when GitHub renders it, everything is unmistakably structured.
-
-Let me rewrite it in a **clean, strictly Markdown-structured** way. No fancy emojis in headings unless useful. Just solid, unmistakable formatting GitHub will parse perfectly.
-
-Here you go:
-
----
 
 # HR Analytics Dashboard
 
